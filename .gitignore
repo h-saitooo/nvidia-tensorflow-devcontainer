@@ -1,0 +1,9 @@
+# Ignore files Python
+__pycache__/
+*.pyc
+
+# jupyter notebook
+.ipynb_checkpoints/
+
+.DS_Store
+Thumb.db
